@@ -1,4 +1,4 @@
-# Corporate Pipeline Project
+# InfraSync Pipeline Project
 
 This document outlines the phases and components of a corporate pipeline project that uses DevOps practices.
 
